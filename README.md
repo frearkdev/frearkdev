@@ -2,9 +2,9 @@
 
 ## I'm a Developer & Nerd & Hardstyle Addicted
 
-- 📑 Working on Vyxel
+- 📑 CEO - Static Development
 - 🌱 My projects are usually a big mess
-- 👨‍🎓 Currently in 8th grade. 
+- 👨‍🎓 Currently in second year of high school.
 - ⚡ Favorite Quote: "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.".
 
 ### Connect with me:
