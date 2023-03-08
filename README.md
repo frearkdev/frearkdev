@@ -2,7 +2,7 @@
 
 ## I'm a Developer & Nerd & Hardstyle Addicted
 
-- 📑 CEO - Static Development
+- 📑 CEO - Miami Networking
 - 🌱 My projects are usually a big mess
 - 👨‍🎓 Currently in second year of high school.
 - ⚡ Favorite Quote: "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.".
@@ -17,7 +17,7 @@
 
 
 <img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" />
-<img align="left" alt="Linux" width="26px" src="https://iconarchive.com/download/i45763/tatice/operating-systems/Linux.ico" />
+<img align="left" alt="Linux" width="26px" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" />
 <img align="left" alt="Windows" width="26px" src="https://www.freeiconspng.com/thumbs/windows-icon-png/system-windows-icon-png-4.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
