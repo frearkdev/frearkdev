@@ -1,10 +1,9 @@
 ### Hi there, I'm Freark
 
-## I'm a Developer & Nerd & Hardstyle Addicted
+## I'm a Developer & Hardstyle Music Addicted
 
-- 📑 CEO - Project Static
 - 🌱 My projects are usually a big mess
-- 👨‍🎓 Currently in third year of high school.
+- 👨‍🎓 Currently in first year of Software Development course
 - ⚡ Favorite Quote: "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.".
 
 ### Connect with me:
