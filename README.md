@@ -1,36 +1,47 @@
-### Hi there, I'm Freark
+<h1 align="center">Hi, I'm Freark 👋</h1>
+<h3 align="center">Software Developer · BBL (werken en leren) · Hardstyle enjoyer</h3>
 
-## I'm a Developer & Hardstyle Music Addicted
+<p align="center">
+  Full-stack developer building and maintaining backend services and frontend apps for e-commerce platforms.
+  Currently 4 days a week on the job, 1 day a week at school (BBL — beroepsbegeleidende leerweg).
+</p>
 
-- 🌱 My projects are usually a big mess
-- 👨‍🎓 Currently in first year of Software Development course
-- ⚡ Favorite Quote: "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.".
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=frearkdev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-### Connect with me:
+---
 
-[<img align="left" alt="Discord" width="22px" src="https://www.freeiconspng.com/uploads/discord-black-icon-1.png" />](https://discord.com/users/901210888877522954)
+### About me
 
-<br />
+- 🔧 Working daily in **Laravel/PHP** backends, **Vue 3 + TypeScript** frontends, and MySQL-backed production systems
+- 🐳 Comfortable with Docker-based local dev environments and microservice architectures
+- 🔌 Experience wiring up third-party APIs (shipping, pricing, logistics) into existing platforms
+- 📚 BBL student — working 4 days, studying 1 day a week
+- ⚡ Favorite quote: *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
+- 🎧 When not coding: hardstyle, loud and often
 
-### Languages and Tools:
+### Connect with me
 
+<p align="left">
+  <a href="https://discord.com/users/901210888877522954" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
 
-<img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" />
-<img align="left" alt="Linux" width="26px" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" />
-<img align="left" alt="Windows" width="26px" src="https://www.freeiconspng.com/thumbs/windows-icon-png/system-windows-icon-png-4.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="LUA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+### Tech stack
 
-<br />
-<br />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,vue,nodejs,html,css,mysql,mongodb,docker,linux,git,github,vscode" alt="Tech stack icons" />
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=frearkdev&show_icons=true&theme=radical" alt="My github stats" />
+### GitHub stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=frearkdev&show_icons=true&theme=radical&hide_border=true" alt="My GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frearkdev&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frearkdev&theme=radical&hide_border=true" alt="GitHub streak stats" />
+</p>
